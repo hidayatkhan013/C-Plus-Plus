@@ -1,4 +1,4 @@
-## C Plus Plus Repositor By Hidayat ur rehman
+## C Plus Plus Repository By Hidayat ur rehman
 Problem Statement
 A civil engineer was recording using a sensor the load on a horizontal rigid bar at different positions
 starting from x = 0 m (see figure). The text files contain the load in Newton (2nd column) for every 1mm

@@ -1,4 +1,4 @@
-## C Plus Plus Repositor By Hidayat ur rehman
+## C Plus Plus Repository By Hidayat ur rehman
 Problem Statement
 Let's say you have an array based list. As you know we have different methods which work on the
 array based list but we will be adding a new method to that class. The method’s name will be
